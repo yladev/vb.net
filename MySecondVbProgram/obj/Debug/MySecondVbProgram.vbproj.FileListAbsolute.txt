@@ -1,0 +1,4 @@
+D:\ITP_VB.net\MySecondVbProgram\bin\Debug\Test.exe.config
+D:\ITP_VB.net\MySecondVbProgram\obj\Debug\Test.exe
+D:\ITP_VB.net\MySecondVbProgram\obj\Debug\Test.xml
+D:\ITP_VB.net\MySecondVbProgram\obj\Debug\Test.pdb

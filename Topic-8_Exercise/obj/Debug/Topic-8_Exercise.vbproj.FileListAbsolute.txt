@@ -1,0 +1,10 @@
+D:\ITP_VB.net\Topic-8_Exercise\bin\Debug\Topic-8_Exercise.exe.config
+D:\ITP_VB.net\Topic-8_Exercise\bin\Debug\Topic-8_Exercise.exe
+D:\ITP_VB.net\Topic-8_Exercise\bin\Debug\Topic-8_Exercise.pdb
+D:\ITP_VB.net\Topic-8_Exercise\bin\Debug\Topic-8_Exercise.xml
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic_8_Exercise.frmName.resources
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic_8_Exercise.Resources.resources
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic-8_Exercise.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic-8_Exercise.exe
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic-8_Exercise.xml
+D:\ITP_VB.net\Topic-8_Exercise\obj\Debug\Topic-8_Exercise.pdb

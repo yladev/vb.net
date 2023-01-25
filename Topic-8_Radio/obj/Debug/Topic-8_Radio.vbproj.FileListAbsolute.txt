@@ -1,0 +1,10 @@
+D:\ITP_VB.net\Topic-8_Radio\bin\Debug\Topic-8_Radio.exe.config
+D:\ITP_VB.net\Topic-8_Radio\bin\Debug\Topic-8_Radio.exe
+D:\ITP_VB.net\Topic-8_Radio\bin\Debug\Topic-8_Radio.pdb
+D:\ITP_VB.net\Topic-8_Radio\bin\Debug\Topic-8_Radio.xml
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic_8_Radio.frmRadio.resources
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic_8_Radio.Resources.resources
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic-8_Radio.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic-8_Radio.exe
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic-8_Radio.xml
+D:\ITP_VB.net\Topic-8_Radio\obj\Debug\Topic-8_Radio.pdb
