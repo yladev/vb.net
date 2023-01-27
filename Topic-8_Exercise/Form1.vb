@@ -1,7 +1,7 @@
 ﻿Public Class frmName
 
     Private Sub btnButton1_Click(sender As Object, e As EventArgs) Handles btnButton1.Click
-        lblName.Text = "Hello Everyone!, My name is Yan Linn Aung. I am a junior web-developer. My Github acc is github.com/yladev."
+        lblName.Text = "Hello Everyone!, My name is Yan Linn Aung. I am a junior web-developer. My Github account is github.com/yladev."
     End Sub
 
     Private Sub btnButton2_Click(sender As Object, e As EventArgs) Handles btnButton2.Click
@@ -28,8 +28,12 @@
         Me.BackColor = Color.Black
     End Sub
 
-    Private Sub rdoWhite_CheckedChanged(sender As Object, e As EventArgs) Handles rdoWhite.CheckedChanged
-        Me.BackColor = Color.White
+    Private Sub rdoIndigoBlue_CheckedChanged(sender As Object, e As EventArgs) Handles rdoIndigoBlue.CheckedChanged
+        Me.BackColor = Color.Indigo
+    End Sub
+
+    Private Sub rdoGray_CheckedChanged(sender As Object, e As EventArgs) Handles rdoGray.CheckedChanged
+        Me.BackColor = Color.Gray
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.MouseHover

@@ -33,7 +33,8 @@ Partial Class frmName
         Me.rdoBlack = New System.Windows.Forms.RadioButton()
         Me.lblTextColor = New System.Windows.Forms.Label()
         Me.lblBgColor = New System.Windows.Forms.Label()
-        Me.rdoWhite = New System.Windows.Forms.RadioButton()
+        Me.rdoIndigoBlue = New System.Windows.Forms.RadioButton()
+        Me.rdoGray = New System.Windows.Forms.RadioButton()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -47,7 +48,7 @@ Partial Class frmName
         '
         'btnButton1
         '
-        Me.btnButton1.BackColor = System.Drawing.Color.Red
+        Me.btnButton1.BackColor = System.Drawing.Color.FromArgb(CType(CType(197, Byte), Integer), CType(CType(90, Byte), Integer), CType(CType(199, Byte), Integer))
         Me.btnButton1.Cursor = System.Windows.Forms.Cursors.Arrow
         Me.btnButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnButton1.ForeColor = System.Drawing.Color.Goldenrod
@@ -60,7 +61,7 @@ Partial Class frmName
         '
         'btnButton2
         '
-        Me.btnButton2.BackColor = System.Drawing.Color.Red
+        Me.btnButton2.BackColor = System.Drawing.Color.FromArgb(CType(CType(197, Byte), Integer), CType(CType(90, Byte), Integer), CType(CType(199, Byte), Integer))
         Me.btnButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnButton2.ForeColor = System.Drawing.Color.Goldenrod
         Me.btnButton2.Location = New System.Drawing.Point(281, 575)
@@ -72,7 +73,7 @@ Partial Class frmName
         '
         'btnButton3
         '
-        Me.btnButton3.BackColor = System.Drawing.Color.Red
+        Me.btnButton3.BackColor = System.Drawing.Color.FromArgb(CType(CType(197, Byte), Integer), CType(CType(90, Byte), Integer), CType(CType(199, Byte), Integer))
         Me.btnButton3.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnButton3.ForeColor = System.Drawing.Color.Goldenrod
         Me.btnButton3.Location = New System.Drawing.Point(518, 575)
@@ -159,24 +160,37 @@ Partial Class frmName
         Me.lblBgColor.TabIndex = 10
         Me.lblBgColor.Text = "BgColor"
         '
-        'rdoWhite
+        'rdoIndigoBlue
         '
-        Me.rdoWhite.AutoSize = True
-        Me.rdoWhite.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.rdoWhite.Location = New System.Drawing.Point(281, 717)
-        Me.rdoWhite.Name = "rdoWhite"
-        Me.rdoWhite.Size = New System.Drawing.Size(65, 21)
-        Me.rdoWhite.TabIndex = 11
-        Me.rdoWhite.TabStop = True
-        Me.rdoWhite.Text = "White"
-        Me.rdoWhite.UseVisualStyleBackColor = True
+        Me.rdoIndigoBlue.AutoSize = True
+        Me.rdoIndigoBlue.ForeColor = System.Drawing.Color.Indigo
+        Me.rdoIndigoBlue.Location = New System.Drawing.Point(281, 717)
+        Me.rdoIndigoBlue.Name = "rdoIndigoBlue"
+        Me.rdoIndigoBlue.Size = New System.Drawing.Size(95, 21)
+        Me.rdoIndigoBlue.TabIndex = 11
+        Me.rdoIndigoBlue.TabStop = True
+        Me.rdoIndigoBlue.Text = "IndigoBlue"
+        Me.rdoIndigoBlue.UseVisualStyleBackColor = True
+        '
+        'rdoGray
+        '
+        Me.rdoGray.AutoSize = True
+        Me.rdoGray.ForeColor = System.Drawing.Color.Gray
+        Me.rdoGray.Location = New System.Drawing.Point(518, 717)
+        Me.rdoGray.Name = "rdoGray"
+        Me.rdoGray.Size = New System.Drawing.Size(60, 21)
+        Me.rdoGray.TabIndex = 12
+        Me.rdoGray.TabStop = True
+        Me.rdoGray.Text = "Gray"
+        Me.rdoGray.UseVisualStyleBackColor = True
         '
         'frmName
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1379, 760)
-        Me.Controls.Add(Me.rdoWhite)
+        Me.Controls.Add(Me.rdoGray)
+        Me.Controls.Add(Me.rdoIndigoBlue)
         Me.Controls.Add(Me.lblBgColor)
         Me.Controls.Add(Me.lblTextColor)
         Me.Controls.Add(Me.rdoBlack)
@@ -207,6 +221,7 @@ Partial Class frmName
     Friend WithEvents rdoBlack As System.Windows.Forms.RadioButton
     Friend WithEvents lblTextColor As System.Windows.Forms.Label
     Friend WithEvents lblBgColor As System.Windows.Forms.Label
-    Friend WithEvents rdoWhite As System.Windows.Forms.RadioButton
+    Friend WithEvents rdoIndigoBlue As System.Windows.Forms.RadioButton
+    Friend WithEvents rdoGray As System.Windows.Forms.RadioButton
 
 End Class
