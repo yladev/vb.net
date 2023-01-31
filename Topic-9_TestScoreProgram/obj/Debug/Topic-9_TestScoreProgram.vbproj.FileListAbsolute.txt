@@ -1,1 +1,10 @@
 D:\ITP_VB.net\Topic-9_TestScoreProgram\bin\Debug\Topic-9_TestScoreProgram.exe.config
+D:\ITP_VB.net\Topic-9_TestScoreProgram\bin\Debug\Topic-9_TestScoreProgram.exe
+D:\ITP_VB.net\Topic-9_TestScoreProgram\bin\Debug\Topic-9_TestScoreProgram.pdb
+D:\ITP_VB.net\Topic-9_TestScoreProgram\bin\Debug\Topic-9_TestScoreProgram.xml
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic_9_TestScoreProgram.frmTestScoreProgram.resources
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic_9_TestScoreProgram.Resources.resources
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic-9_TestScoreProgram.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic-9_TestScoreProgram.exe
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic-9_TestScoreProgram.xml
+D:\ITP_VB.net\Topic-9_TestScoreProgram\obj\Debug\Topic-9_TestScoreProgram.pdb
