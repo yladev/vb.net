@@ -81,7 +81,7 @@ Partial Class frmCP
         '
         'txtInput2
         '
-        Me.txtInput2.Location = New System.Drawing.Point(357, 101)
+        Me.txtInput2.Location = New System.Drawing.Point(357, 106)
         Me.txtInput2.Name = "txtInput2"
         Me.txtInput2.Size = New System.Drawing.Size(116, 22)
         Me.txtInput2.TabIndex = 5
@@ -159,6 +159,7 @@ Partial Class frmCP
         Me.Controls.Add(Me.lblEFN)
         Me.Name = "frmCP"
         Me.Text = "Calculator Program"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
