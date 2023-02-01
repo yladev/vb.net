@@ -92,7 +92,7 @@ Partial Class frmCP
         Me.btnAdd.Name = "btnAdd"
         Me.btnAdd.Size = New System.Drawing.Size(100, 53)
         Me.btnAdd.TabIndex = 6
-        Me.btnAdd.Text = "Addition"
+        Me.btnAdd.Text = "&Addition"
         Me.btnAdd.UseVisualStyleBackColor = True
         '
         'btnSub
@@ -101,7 +101,7 @@ Partial Class frmCP
         Me.btnSub.Name = "btnSub"
         Me.btnSub.Size = New System.Drawing.Size(109, 53)
         Me.btnSub.TabIndex = 7
-        Me.btnSub.Text = "Subtraction"
+        Me.btnSub.Text = "&Subtraction"
         Me.btnSub.UseVisualStyleBackColor = True
         '
         'btnDiv
@@ -110,7 +110,7 @@ Partial Class frmCP
         Me.btnDiv.Name = "btnDiv"
         Me.btnDiv.Size = New System.Drawing.Size(100, 53)
         Me.btnDiv.TabIndex = 8
-        Me.btnDiv.Text = "Division"
+        Me.btnDiv.Text = "&Division"
         Me.btnDiv.UseVisualStyleBackColor = True
         '
         'btnMul
@@ -119,7 +119,7 @@ Partial Class frmCP
         Me.btnMul.Name = "btnMul"
         Me.btnMul.Size = New System.Drawing.Size(100, 53)
         Me.btnMul.TabIndex = 9
-        Me.btnMul.Text = "Multiplication"
+        Me.btnMul.Text = "&Muliply"
         Me.btnMul.UseVisualStyleBackColor = True
         '
         'btnClr
@@ -128,7 +128,7 @@ Partial Class frmCP
         Me.btnClr.Name = "btnClr"
         Me.btnClr.Size = New System.Drawing.Size(109, 53)
         Me.btnClr.TabIndex = 10
-        Me.btnClr.Text = "Clear"
+        Me.btnClr.Text = "&Clear"
         Me.btnClr.UseVisualStyleBackColor = True
         '
         'btnClose
@@ -137,7 +137,7 @@ Partial Class frmCP
         Me.btnClose.Name = "btnClose"
         Me.btnClose.Size = New System.Drawing.Size(100, 53)
         Me.btnClose.TabIndex = 11
-        Me.btnClose.Text = "Close"
+        Me.btnClose.Text = "C&lose"
         Me.btnClose.UseVisualStyleBackColor = True
         '
         'frmCP
