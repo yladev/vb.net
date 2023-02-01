@@ -39,9 +39,9 @@ Partial Class frmTestScoreProgram
         'lblTSC
         '
         Me.lblTSC.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblTSC.Location = New System.Drawing.Point(141, 27)
+        Me.lblTSC.Location = New System.Drawing.Point(159, 27)
         Me.lblTSC.Name = "lblTSC"
-        Me.lblTSC.Size = New System.Drawing.Size(373, 31)
+        Me.lblTSC.Size = New System.Drawing.Size(420, 31)
         Me.lblTSC.TabIndex = 0
         Me.lblTSC.Text = "Test Score Program"
         Me.lblTSC.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -49,7 +49,8 @@ Partial Class frmTestScoreProgram
         'lblT1S
         '
         Me.lblT1S.AutoSize = True
-        Me.lblT1S.Location = New System.Drawing.Point(84, 104)
+        Me.lblT1S.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblT1S.Location = New System.Drawing.Point(94, 104)
         Me.lblT1S.Name = "lblT1S"
         Me.lblT1S.Size = New System.Drawing.Size(89, 17)
         Me.lblT1S.TabIndex = 1
@@ -58,7 +59,8 @@ Partial Class frmTestScoreProgram
         'lblT2S
         '
         Me.lblT2S.AutoSize = True
-        Me.lblT2S.Location = New System.Drawing.Point(84, 146)
+        Me.lblT2S.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblT2S.Location = New System.Drawing.Point(94, 146)
         Me.lblT2S.Name = "lblT2S"
         Me.lblT2S.Size = New System.Drawing.Size(89, 17)
         Me.lblT2S.TabIndex = 2
@@ -67,7 +69,8 @@ Partial Class frmTestScoreProgram
         'lblT3S
         '
         Me.lblT3S.AutoSize = True
-        Me.lblT3S.Location = New System.Drawing.Point(84, 197)
+        Me.lblT3S.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblT3S.Location = New System.Drawing.Point(94, 197)
         Me.lblT3S.Name = "lblT3S"
         Me.lblT3S.Size = New System.Drawing.Size(89, 17)
         Me.lblT3S.TabIndex = 3
@@ -76,72 +79,72 @@ Partial Class frmTestScoreProgram
         'lblATC
         '
         Me.lblATC.AutoSize = True
-        Me.lblATC.Location = New System.Drawing.Point(84, 255)
+        Me.lblATC.Location = New System.Drawing.Point(94, 255)
         Me.lblATC.Name = "lblATC"
-        Me.lblATC.Size = New System.Drawing.Size(134, 17)
+        Me.lblATC.Size = New System.Drawing.Size(152, 17)
         Me.lblATC.TabIndex = 4
         Me.lblATC.Text = "Average Test Score"
         '
         'lblNum
         '
-        Me.lblNum.Location = New System.Drawing.Point(376, 255)
+        Me.lblNum.Location = New System.Drawing.Point(423, 255)
         Me.lblNum.Name = "lblNum"
-        Me.lblNum.Size = New System.Drawing.Size(138, 17)
+        Me.lblNum.Size = New System.Drawing.Size(155, 17)
         Me.lblNum.TabIndex = 5
         '
         'txtInput1
         '
-        Me.txtInput1.Location = New System.Drawing.Point(379, 99)
+        Me.txtInput1.Location = New System.Drawing.Point(426, 99)
         Me.txtInput1.Name = "txtInput1"
-        Me.txtInput1.Size = New System.Drawing.Size(135, 22)
+        Me.txtInput1.Size = New System.Drawing.Size(151, 22)
         Me.txtInput1.TabIndex = 6
         '
         'txtInput2
         '
-        Me.txtInput2.Location = New System.Drawing.Point(379, 141)
+        Me.txtInput2.Location = New System.Drawing.Point(426, 141)
         Me.txtInput2.Name = "txtInput2"
-        Me.txtInput2.Size = New System.Drawing.Size(135, 22)
+        Me.txtInput2.Size = New System.Drawing.Size(151, 22)
         Me.txtInput2.TabIndex = 7
         '
         'txtInput3
         '
-        Me.txtInput3.Location = New System.Drawing.Point(379, 192)
+        Me.txtInput3.Location = New System.Drawing.Point(426, 192)
         Me.txtInput3.Name = "txtInput3"
-        Me.txtInput3.Size = New System.Drawing.Size(135, 22)
+        Me.txtInput3.Size = New System.Drawing.Size(151, 22)
         Me.txtInput3.TabIndex = 8
         '
         'btnAT
         '
-        Me.btnAT.Location = New System.Drawing.Point(319, 324)
+        Me.btnAT.Location = New System.Drawing.Point(359, 324)
         Me.btnAT.Name = "btnAT"
-        Me.btnAT.Size = New System.Drawing.Size(195, 37)
+        Me.btnAT.Size = New System.Drawing.Size(219, 37)
         Me.btnAT.TabIndex = 9
         Me.btnAT.Text = "Average Test"
         Me.btnAT.UseVisualStyleBackColor = True
         '
         'btnRT
         '
-        Me.btnRT.Location = New System.Drawing.Point(319, 384)
+        Me.btnRT.Location = New System.Drawing.Point(359, 384)
         Me.btnRT.Name = "btnRT"
-        Me.btnRT.Size = New System.Drawing.Size(195, 35)
+        Me.btnRT.Size = New System.Drawing.Size(219, 35)
         Me.btnRT.TabIndex = 10
         Me.btnRT.Text = "Reset Test"
         Me.btnRT.UseVisualStyleBackColor = True
         '
         'btnEW
         '
-        Me.btnEW.Location = New System.Drawing.Point(319, 442)
+        Me.btnEW.Location = New System.Drawing.Point(359, 442)
         Me.btnEW.Name = "btnEW"
-        Me.btnEW.Size = New System.Drawing.Size(195, 36)
+        Me.btnEW.Size = New System.Drawing.Size(219, 36)
         Me.btnEW.TabIndex = 11
         Me.btnEW.Text = "Exit Window"
         Me.btnEW.UseVisualStyleBackColor = True
         '
         'frmTestScoreProgram
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(668, 530)
+        Me.ClientSize = New System.Drawing.Size(752, 530)
         Me.Controls.Add(Me.btnEW)
         Me.Controls.Add(Me.btnRT)
         Me.Controls.Add(Me.btnAT)
@@ -154,6 +157,7 @@ Partial Class frmTestScoreProgram
         Me.Controls.Add(Me.lblT2S)
         Me.Controls.Add(Me.lblT1S)
         Me.Controls.Add(Me.lblTSC)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Name = "frmTestScoreProgram"
         Me.Text = "Test Score Program"
         Me.ResumeLayout(False)
