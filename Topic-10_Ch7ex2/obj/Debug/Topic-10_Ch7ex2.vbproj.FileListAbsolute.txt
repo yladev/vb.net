@@ -1,0 +1,10 @@
+D:\ITP_VB.net\Topic-10_Ch7ex2\bin\Debug\Topic-10_Ch7ex2.exe.config
+D:\ITP_VB.net\Topic-10_Ch7ex2\bin\Debug\Topic-10_Ch7ex2.exe
+D:\ITP_VB.net\Topic-10_Ch7ex2\bin\Debug\Topic-10_Ch7ex2.pdb
+D:\ITP_VB.net\Topic-10_Ch7ex2\bin\Debug\Topic-10_Ch7ex2.xml
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic_10_Ch7ex2.frmCh7ex2.resources
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic_10_Ch7ex2.Resources.resources
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic-10_Ch7ex2.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic-10_Ch7ex2.exe
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic-10_Ch7ex2.xml
+D:\ITP_VB.net\Topic-10_Ch7ex2\obj\Debug\Topic-10_Ch7ex2.pdb
