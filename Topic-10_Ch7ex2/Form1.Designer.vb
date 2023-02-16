@@ -23,11 +23,11 @@ Partial Class frmCh7ex2
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.grbCT = New System.Windows.Forms.GroupBox()
-        Me.lblOT = New System.Windows.Forms.Label()
-        Me.rdoBC = New System.Windows.Forms.RadioButton()
-        Me.rdoEspresso = New System.Windows.Forms.RadioButton()
-        Me.rdoMocha = New System.Windows.Forms.RadioButton()
         Me.rdoCap = New System.Windows.Forms.RadioButton()
+        Me.rdoMocha = New System.Windows.Forms.RadioButton()
+        Me.rdoEspresso = New System.Windows.Forms.RadioButton()
+        Me.rdoBC = New System.Windows.Forms.RadioButton()
+        Me.lblOT = New System.Windows.Forms.Label()
         Me.lblPrice = New System.Windows.Forms.Label()
         Me.lblQuantity = New System.Windows.Forms.Label()
         Me.lblTA = New System.Windows.Forms.Label()
@@ -57,36 +57,16 @@ Partial Class frmCh7ex2
         Me.grbCT.TabStop = False
         Me.grbCT.Text = "Choose Item"
         '
-        'lblOT
+        'rdoCap
         '
-        Me.lblOT.AutoSize = True
-        Me.lblOT.Location = New System.Drawing.Point(59, 28)
-        Me.lblOT.Name = "lblOT"
-        Me.lblOT.Size = New System.Drawing.Size(75, 17)
-        Me.lblOT.TabIndex = 0
-        Me.lblOT.Text = "Order Item"
-        '
-        'rdoBC
-        '
-        Me.rdoBC.AutoSize = True
-        Me.rdoBC.Location = New System.Drawing.Point(9, 45)
-        Me.rdoBC.Name = "rdoBC"
-        Me.rdoBC.Size = New System.Drawing.Size(148, 21)
-        Me.rdoBC.TabIndex = 0
-        Me.rdoBC.TabStop = True
-        Me.rdoBC.Text = "Black Coffee  2500"
-        Me.rdoBC.UseVisualStyleBackColor = True
-        '
-        'rdoEspresso
-        '
-        Me.rdoEspresso.AutoSize = True
-        Me.rdoEspresso.Location = New System.Drawing.Point(9, 85)
-        Me.rdoEspresso.Name = "rdoEspresso"
-        Me.rdoEspresso.Size = New System.Drawing.Size(148, 21)
-        Me.rdoEspresso.TabIndex = 1
-        Me.rdoEspresso.TabStop = True
-        Me.rdoEspresso.Text = "Espresso       1000"
-        Me.rdoEspresso.UseVisualStyleBackColor = True
+        Me.rdoCap.AutoSize = True
+        Me.rdoCap.Location = New System.Drawing.Point(9, 166)
+        Me.rdoCap.Name = "rdoCap"
+        Me.rdoCap.Size = New System.Drawing.Size(147, 21)
+        Me.rdoCap.TabIndex = 3
+        Me.rdoCap.TabStop = True
+        Me.rdoCap.Text = "Cappuccino   3500"
+        Me.rdoCap.UseVisualStyleBackColor = True
         '
         'rdoMocha
         '
@@ -99,16 +79,36 @@ Partial Class frmCh7ex2
         Me.rdoMocha.Text = "Mocha           1500"
         Me.rdoMocha.UseVisualStyleBackColor = True
         '
-        'rdoCap
+        'rdoEspresso
         '
-        Me.rdoCap.AutoSize = True
-        Me.rdoCap.Location = New System.Drawing.Point(9, 166)
-        Me.rdoCap.Name = "rdoCap"
-        Me.rdoCap.Size = New System.Drawing.Size(147, 21)
-        Me.rdoCap.TabIndex = 3
-        Me.rdoCap.TabStop = True
-        Me.rdoCap.Text = "Cappuccino   3500"
-        Me.rdoCap.UseVisualStyleBackColor = True
+        Me.rdoEspresso.AutoSize = True
+        Me.rdoEspresso.Location = New System.Drawing.Point(9, 85)
+        Me.rdoEspresso.Name = "rdoEspresso"
+        Me.rdoEspresso.Size = New System.Drawing.Size(148, 21)
+        Me.rdoEspresso.TabIndex = 1
+        Me.rdoEspresso.TabStop = True
+        Me.rdoEspresso.Text = "Espresso       1000"
+        Me.rdoEspresso.UseVisualStyleBackColor = True
+        '
+        'rdoBC
+        '
+        Me.rdoBC.AutoSize = True
+        Me.rdoBC.Location = New System.Drawing.Point(9, 45)
+        Me.rdoBC.Name = "rdoBC"
+        Me.rdoBC.Size = New System.Drawing.Size(148, 21)
+        Me.rdoBC.TabIndex = 0
+        Me.rdoBC.TabStop = True
+        Me.rdoBC.Text = "Black Coffee  2500"
+        Me.rdoBC.UseVisualStyleBackColor = True
+        '
+        'lblOT
+        '
+        Me.lblOT.AutoSize = True
+        Me.lblOT.Location = New System.Drawing.Point(59, 28)
+        Me.lblOT.Name = "lblOT"
+        Me.lblOT.Size = New System.Drawing.Size(75, 17)
+        Me.lblOT.TabIndex = 0
+        Me.lblOT.Text = "Order Item"
         '
         'lblPrice
         '

@@ -35,7 +35,19 @@
         lblBal.Text = b - lblTotalAmount.Text
 
         If (b < lblTotalAmount.Text) Then
-            MessageBox.Show("You need more money to buy this!")
+            MessageBox.Show("You need more money to buy this!", "Error Payment", MessageBoxButtons.OK, MessageBoxIcon.Stop)
         End If
+    End Sub
+
+    Private Sub btnClr_Click(sender As Object, e As EventArgs) Handles btnClr.Click
+        lblPrc.Text = ""
+        txtQuan.Text = ""
+        lblTotalAmount.Text = ""
+        txtPay.Text = ""
+        lblBal.Text = ""
+    End Sub
+
+    Private Sub btnPrn_Click(sender As Object, e As EventArgs) Handles btnPrn.Click
+        MessageBox.Show("Thank you!" & vbCrLf & "____" & vbCrLf & "Total Amount:" & lblTotalAmount.Text & vbCrLf & "Payment:" & txtPay.Text & vbCrLf & "____" & vbCrLf & "Balance:" & lblBal.Text, "Payment Receive", MessageBoxButtons.OK)
     End Sub
 End Class
