@@ -6,7 +6,7 @@
 
     Private Sub btnClr_Click(sender As Object, e As EventArgs) Handles btnClr.Click
         lblName.ForeColor = Color.White
-        cboColor.Text = ""
+        lblName.Text = ""
         cboColor.Focus()
     End Sub
 

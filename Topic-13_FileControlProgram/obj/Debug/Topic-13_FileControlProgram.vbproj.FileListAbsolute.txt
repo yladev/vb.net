@@ -1,0 +1,10 @@
+D:\ITP_VB.net\Topic-13_FileControlProgram\bin\Debug\Topic-13_FileControlProgram.exe.config
+D:\ITP_VB.net\Topic-13_FileControlProgram\bin\Debug\Topic-13_FileControlProgram.exe
+D:\ITP_VB.net\Topic-13_FileControlProgram\bin\Debug\Topic-13_FileControlProgram.pdb
+D:\ITP_VB.net\Topic-13_FileControlProgram\bin\Debug\Topic-13_FileControlProgram.xml
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic_13_FileControlProgram.frmFCP.resources
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic_13_FileControlProgram.Resources.resources
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic-13_FileControlProgram.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic-13_FileControlProgram.exe
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic-13_FileControlProgram.xml
+D:\ITP_VB.net\Topic-13_FileControlProgram\obj\Debug\Topic-13_FileControlProgram.pdb

@@ -1,1 +1,10 @@
 D:\ITP_VB.net\Topic-12_Pg1\bin\Debug\Topic-12_Pg1.exe.config
+D:\ITP_VB.net\Topic-12_Pg1\bin\Debug\Topic-12_Pg1.exe
+D:\ITP_VB.net\Topic-12_Pg1\bin\Debug\Topic-12_Pg1.pdb
+D:\ITP_VB.net\Topic-12_Pg1\bin\Debug\Topic-12_Pg1.xml
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic_12_Pg1.Form1.resources
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic_12_Pg1.Resources.resources
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic-12_Pg1.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic-12_Pg1.exe
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic-12_Pg1.xml
+D:\ITP_VB.net\Topic-12_Pg1\obj\Debug\Topic-12_Pg1.pdb

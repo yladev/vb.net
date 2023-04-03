@@ -63,6 +63,7 @@ Partial Class Form1
         Me.Controls.Add(Me.txtMark)
         Me.Controls.Add(Me.lblPeym)
         Me.Name = "Form1"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

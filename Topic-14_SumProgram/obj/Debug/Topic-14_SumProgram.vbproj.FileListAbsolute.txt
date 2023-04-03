@@ -1,0 +1,10 @@
+D:\ITP_VB.net\Topic-14_SumProgram\bin\Debug\Topic-14_SumProgram.exe.config
+D:\ITP_VB.net\Topic-14_SumProgram\bin\Debug\Topic-14_SumProgram.exe
+D:\ITP_VB.net\Topic-14_SumProgram\bin\Debug\Topic-14_SumProgram.pdb
+D:\ITP_VB.net\Topic-14_SumProgram\bin\Debug\Topic-14_SumProgram.xml
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic_14_SumProgram.frmSum.resources
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic_14_SumProgram.Resources.resources
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic-14_SumProgram.vbproj.GenerateResource.Cache
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic-14_SumProgram.exe
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic-14_SumProgram.xml
+D:\ITP_VB.net\Topic-14_SumProgram\obj\Debug\Topic-14_SumProgram.pdb

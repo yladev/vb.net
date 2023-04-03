@@ -23,6 +23,7 @@ Partial Class frmHello
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.lblName = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'lblName
@@ -34,11 +35,21 @@ Partial Class frmHello
         Me.lblName.TabIndex = 0
         Me.lblName.Text = "Hello World"
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(836, 242)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'frmHello
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1206, 726)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.lblName)
         Me.Name = "frmHello"
         Me.Text = "Hello World"
@@ -48,5 +59,6 @@ Partial Class frmHello
 
     End Sub
     Friend WithEvents lblName As System.Windows.Forms.Label
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 
 End Class
